@@ -1,7 +1,7 @@
 {
     "Prefix": ".",
-    "MainColor": "Put any #HexCode you want for embeds color",
-    "WarnColor": "Put any #HexCode you want for warning embeds color",
-    "ErrorColor": "Put any #HexCode you want for error embeds color",
-    "ClientID": "1534171350477045820",
+    "MainColor": "#38BDF8",
+    "WarnColor": "#F59E0B",
+    "ErrorColor": "#EF4444",
+    "ClientID": "1534171350477045820"
 }
