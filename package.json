@@ -12,7 +12,8 @@
         "distube": "^5.0.2",
         "distube-apple-music": "^0.1.0",
         "ffmpeg-static": "^5.2.0",
-        "sodium-native": "^4.1.1"
+        "sodium-native": "^4.1.1",
+        "express": "^4.21.0"
     },
     "name": "discord-music-bot",
     "description": "\"Discord-Music-Bot\" an Advanced Discord Music Bot for YOU",
